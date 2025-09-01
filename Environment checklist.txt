@@ -1,0 +1,10 @@
+Environment checklist - 
+
+VS Code installed
+.NET SDK installed 
+Node.js installed
+Git installed 
+Azure Data Studio installed
+VS code Extension: C#, ESLint, Prettier, GitHub Copilot (trial)
+Terminal basics: navigation, file ops, aliases practiced
+
